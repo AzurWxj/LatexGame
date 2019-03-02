@@ -1,0 +1,15 @@
+\contentsline {part}{第一部分\hspace {1em}东印度公司}{3}{part.1}
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}英属东印度公司}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}介绍}{5}{section.1.1}
+\contentsline {section}{\numberline {1.2}影响}{5}{section.1.2}
+\contentsline {section}{\numberline {1.3}历史}{6}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}创建年代}{6}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}在印度立足}{7}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}扩张}{7}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}垄断基础}{8}{section.1.4}
+\contentsline {subsubsection}{鸦片贸易}{8}{subsubsection*.2}
+\contentsline {subsubsection}{殖民垄断}{8}{subsubsection*.3}
+\contentsline {subsubsection}{地方反抗}{9}{subsubsection*.4}
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}荷属东印度公司}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}历史背景}{12}{section.2.1}
+\contentsline {section}{\numberline {2.2}与台湾的贸易关系}{13}{section.2.2}
